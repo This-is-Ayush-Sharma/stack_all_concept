@@ -1,7 +1,7 @@
 # stack_all_concept
 - covered all the concepts of stack using array
 - full menu......
-- >>>>>>>>>>>>>>>>>The available options are:-<<<<<<<<<<<<<<<<
+- . >>>>>>>>>>>>>>>>>The available options are:-<<<<<<<<<<<<<<<<
 -                     1. PUSH
 -                     2. POP
 -                     3. isEmpty()
