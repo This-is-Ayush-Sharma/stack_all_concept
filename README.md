@@ -1,2 +1,3 @@
 # stack_all_concept
-Code in cpp
+- covered all the concepts of stack using array
+. no
