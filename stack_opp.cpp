@@ -76,7 +76,7 @@ public:
         else
         {
             arr[pos] = item;
-            cout << "value changed at " << pos << "=" << arr[pos] << endl;
+            cout << "value changed at position " << pos << "=" << arr[pos] << endl;
         }
     }
     void display()
